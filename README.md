@@ -1,4 +1,4 @@
-# Project 02: Stock Data Visualization
+Stock Data Visualization
 
 ## Overview
 Fetches real-time stock data using yfinance API and scrapes revenue data from web pages, then creates dual-axis visualizations comparing stock price vs revenue.
